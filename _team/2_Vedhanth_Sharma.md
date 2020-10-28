@@ -5,4 +5,4 @@ jobtitle: 'Department General Secretory'
 email: ''
 linkedinurl: ''
 ---
-DESIGN NOMINEE
+Department General Secretory
