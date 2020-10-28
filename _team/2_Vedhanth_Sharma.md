@@ -1,7 +1,7 @@
 ---
-title: 'Vedanth Sharma'
+title: 'Arjun Rahar'
 image: '/images/team/Vedanth_Sharma.jpg'
-jobtitle: 'DESIGN NOMINEE'
+jobtitle: 'Department General Secretory'
 email: ''
 linkedinurl: ''
 ---
