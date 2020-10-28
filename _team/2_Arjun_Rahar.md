@@ -5,4 +5,4 @@ jobtitle: 'Department General Secretory'
 email: ''
 linkedinurl: ''
 ---
-DEPARTMENT GSec
+DEPARTMENT GSEC
