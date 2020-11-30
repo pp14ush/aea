@@ -1,8 +1,8 @@
 ---
 title: 'Arjun Rahar'
-image: '/images/team/Vedanth_Sharma.jpg'
+image: '/images/team/Arjun Rahar.jpg'
 jobtitle: 'Department General Secretory'
-email: ''
-linkedinurl: ''
+email: 'Arjunrahar1@gmail.com'
+facebookurl: 'https://www.facebook.com/arjun.rahar.7'
 ---
 DEPARTMENT GSEC
