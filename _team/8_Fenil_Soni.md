@@ -1,8 +1,8 @@
 ---
 title: 'Fenil_Soni'
 image: '/images/team/Fenil_Soni.jpg'
-jobtitle: 'CLASS REPRESENTATIVE (M.TECH 1ST YEAR)'
-email: ''
+jobtitle: 'Deputy General Secretary (PG)'
+email: 'fenil1608@gmail.com'
 linkedinurl: ''
 ---
-CLASS REPRESENTATIVE (M.TECH 1ST YEAR)
+Deputy General Secretary (PG)
